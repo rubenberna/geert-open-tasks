@@ -10,7 +10,7 @@ handler.get( async (req, res) => {
   try {
     const  q = `
     {
-      listOpenedTasks(size: 300){
+      listOpenedTasks(size: 1000){
         total,
         records{
           nodes{
