@@ -1,0 +1,29 @@
+{
+  "name": "seo-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "isomorphic-unfetch": "^3.0.0",
+    "micro-cors": "^0.1.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.2",
+    "next": "^9.2.1",
+    "next-connect": "^0.6.0",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0",
+    "react-html-table-to-excel": "^2.0.0"
+  }
+}
